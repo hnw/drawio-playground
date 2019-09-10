@@ -1,2 +1,3 @@
 # drawio-playground
-draw.io playground
+
+![ネットワーク図](./network-diagram-with-drawio.svg)
